@@ -31,7 +31,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Ljubljana
 
 include:
   - _pages
@@ -60,14 +60,12 @@ plugins:
 author:
   name   : "Jure Kranjc"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Izkušen SQL Server MCSE, specializiran za HA/DR rešitve in optimizacijo zmogljivosti."
+  bio    : "Izkušen SQL Server MCSE, specializiran za HA/DR rešitve in optimizacijo."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.aom.si"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jkeskuel"
+
 
 
 footer:
