@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jure Kranjc - AOM
-email:
+email: jure.kranjc@aom.si
 description: >- # this means to ignore newlines until "baseurl:"
   10+ let izkušenj v ekosistemih podatkovnih baz, od poslovne inteligence (BI), 
   razvoja do administracije, optimizacije in arhitekture. Dokazana 
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jure Kranjc"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Izkušen SQL Server MCSE, specializiran za HA/DR rešitve in optimizacijo zmogljivosti."
+  bio    : "Izkušen DBA, ki raje optimizira poizvedbe kot piše dolge e-maile – ker je vsaka milisekunda pomembna."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
